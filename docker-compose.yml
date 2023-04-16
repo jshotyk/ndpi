@@ -18,11 +18,13 @@ services:
       - PASV_ADDRESS=yourserveradress.com
       - PASV_MIN=21100
       - UMASK=022
+     
   ndpi:
     build: 
       context: ./home/user/projects/Docker/nDPI
       dockerfile: Dockerfile
     image: jshotyk/ndpi-base:latest 
+    tty: true
     container_name: ndpi-base
     environment:
       - TZ=Europe/Moscow
