@@ -1,4 +1,4 @@
-version: '3'
+version: '3.9'
 
 services:
   # Soft
@@ -18,7 +18,8 @@ services:
       - PASV_ADDRESS=yourserveradress.com
       - PASV_MIN=21100
       - UMASK=022
-     
+    network_mode: "bridge"
+  
   ndpi:
     build: 
       context: ./home/user/projects/Docker/nDPI
