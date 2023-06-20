@@ -1,10 +1,10 @@
-﻿#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
 
 #EXTINF:0 id=vsetv_839 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал HD
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:0 id=vsetv_839 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал HD (R)
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/7253/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/7253/index.m3u8
 #EXTINF:0 id=vsetv_841 group-title="Общие" tvg-id="711" tvg-logo="http://epg.it999.ru/img/984.png" tvg-rec="7",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:0 id=vsetv_308 group-title="Общие" tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png" tvg-rec="7",Пятый канал
@@ -26,7 +26,7 @@ https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 id=vsetv_232 group-title="Общие" tvg-id="405" tvg-logo="http://epg.it999.ru/img/405.png" tvg-rec="7",Звезда
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
 #EXTINF:0 id=vsetv_232 group-title="Общие" tvg-id="405" tvg-logo="http://epg.it999.ru/img/405.png" tvg-rec="0",Звезда HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/15115/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/15115/index.m3u8
 #EXTINF:0 id=vsetv_124 group-title="Общие" tvg-id="304" tvg-logo="http://epg.it999.ru/img/304.png" tvg-rec="0",Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:0 id=vsetv_880 group-title="Общие" tvg-id="1000" tvg-logo="http://epg.it999.ru/img/1000.png" tvg-rec="7",ОТР
@@ -80,11 +80,11 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/11069/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="4780" tvg-logo="http://epg.it999.ru/img/4780.png" tvg-rec="7",Фантастика HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/11070/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2832" tvg-logo="http://epg.it999.ru/img/2832.png" tvg-rec="3",Блокбастер HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2436/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2436/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2836" tvg-logo="http://epg.it999.ru/img/2836.png" tvg-rec="3",Камеди HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2441/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2441/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2833" tvg-logo="http://epg.it999.ru/img/2833.png" tvg-rec="3",Хит HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2438/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2438/index.m3u8
 #EXTINF:0 id=vsetv_1390 group-title="Кино" tvg-id="608" tvg-logo="http://epg.it999.ru/img/608.png" tvg-rec="7",Hollywood
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/557/index.m3u8
 #EXTINF:0 id=vsetv_1391 group-title="Кино" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png" tvg-rec="7",Hollywood HD
@@ -92,7 +92,7 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/209/index.m3u8
 #EXTINF:0 id=vsetv_852 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="3",Кино ТВ HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2097/index.m3u8
 #EXTINF:0 id=vsetv_447 group-title="Кино" tvg-id="2834" tvg-logo="http://epg.it999.ru/img/2834.png" tvg-rec="3",Кинопоказ HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2439/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2439/index.m3u8
 #EXTINF:0 id=vsetv_329 group-title="Кино" tvg-id="518" tvg-logo="http://epg.it999.ru/img/518.png" tvg-rec="7",НСТ
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/726/index.m3u8
 #EXTINF:0 id=vsetv_68 group-title="Кино" tvg-id="309" tvg-logo="http://epg.it999.ru/img/309.png" tvg-rec="7",TV XXI
@@ -102,11 +102,11 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/19233/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2181" tvg-logo="http://epg.it999.ru/img/2181.png" tvg-rec="3",Filmbox
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="774" tvg-logo="http://epg.it999.ru/img/774.png" tvg-rec="7",Flix Snip
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/10060/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/10060/index.m3u8
 #EXTINF:0 id=vsetv_1602 group-title="Кино" tvg-id="431" tvg-logo="http://epg.it999.ru/img/431.png" tvg-rec="3",SHOT TV
 http://80.251.49.103:8003/play/23
 #EXTINF:0 id=vsetv_327 group-title="Кино" tvg-id="2403" tvg-logo="http://epg.it999.ru/img/2403.png" tvg-rec="3",Иллюзион+ HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/9079/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/9079/index.m3u8
 #EXTINF:0 id=vsetv_487 group-title="Кино" tvg-id="352" tvg-logo="http://epg.it999.ru/img/352.png" tvg-rec="7",Еврокино
 http://176.74.80.162:8099/EuroKino/index.m3u8
 #EXTINF:0 id=vsetv_1572 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.it999.ru/img/3357.png" tvg-rec="0",Мосфильм. Золотая коллекция
@@ -138,11 +138,11 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2056/index.m3u8
 #EXTINF:0 id=vsetv_278 group-title="Кино" tvg-id="799" tvg-logo="http://epg.it999.ru/img/799.png" tvg-rec="7",Киносерия HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/19229/index.m3u8
 #EXTINF:0 id=vsetv_590 group-title="Кино" tvg-id="987" tvg-logo="http://epg.it999.ru/img/987.png" tvg-rec="0",Киносемья
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/125/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/125/index.m3u8
 #EXTINF:0 id=vsetv_590 group-title="Кино" tvg-id="987" tvg-logo="http://epg.it999.ru/img/987.png" tvg-rec="0",Киносемья HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/7244/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/7244/index.m3u8
 #EXTINF:0 id=vsetv_1060 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.it999.ru/img/1584.png" tvg-rec="0",Мужское кино
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/164/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/164/index.m3u8
 #EXTINF:0 id=vsetv_1060 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.it999.ru/img/1584.png" tvg-rec="0",Мужское кино HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/10045/index.m3u8
 #EXTINF:0 id=vsetv_292 group-title="Кино" tvg-id="821" tvg-logo="http://epg.it999.ru/img/821.png" tvg-rec="0",Кинокомедия HD
@@ -196,7 +196,7 @@ http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:0 id=vsetv_757 group-title="Кино" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="7",Русский роман
 http://178.160.249.210:8000/play/a2t9/index.m3u8
 #EXTINF:0 id=vsetv_757 group-title="Кино" tvg-id="401" tvg-logo="http://epg.it999.ru/img/401.png" tvg-rec="7",Русский роман HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2076/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2076/index.m3u8
 #EXTINF:0 id=vsetv_177 group-title="Кино" tvg-id="53" tvg-logo="http://epg.it999.ru/img/53.png" tvg-rec="3",Русский иллюзион HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2114/index.m3u8
 #EXTINF:0 id=vsetv_942 group-title="Кино" tvg-id="1570" tvg-logo="http://epg.it999.ru/img/1570.png" tvg-rec="7",Русский детектив
@@ -218,9 +218,9 @@ http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:0 id=vsetv_241 group-title="Познавательные" tvg-id="2443" tvg-logo="http://epg.it999.ru/img/2443.png" tvg-rec="3",Драйв
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2021/index.m3u8
 #EXTINF:0 id=vsetv_924 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.it999.ru/img/2008.png" tvg-rec="7",Авто 24
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/538/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/538/index.m3u8
 #EXTINF:0 id=vsetv_311 group-title="Познавательные" tvg-id="153" tvg-logo="http://epg.it999.ru/img/153.png" tvg-rec="3",Авто Плюс HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/6369/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/6369/index.m3u8
 #EXTINF:0 id=vsetv_583 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.it999.ru/img/2418.png" tvg-rec="3",Galaxy
 http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:0 id=vsetv_583 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.it999.ru/img/2418.png" tvg-rec="3",Galaxy HD
@@ -236,7 +236,7 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/218/index.m3u8
 #EXTINF:0 id=vsetv_1182 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="7",Nat Geo Wild HD
 http://4rtnw86d.megatv.fun/iptv/T6NDS3UGLKHD6Y/216/index.m3u8
 #EXTINF:0 id=vsetv_594 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.it999.ru/img/102.png" tvg-rec="7",National Geographic HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/14001/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/14001/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2417" tvg-logo="http://epg.it999.ru/img/2417.png" tvg-rec="3",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0 id=vsetv_662 group-title="Познавательные" tvg-id="2463" tvg-logo="http://epg.it999.ru/img/2463.png" tvg-rec="3",Загородный
@@ -270,7 +270,7 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/19251/index.m3u8
 #EXTINF:0 id=vsetv_1061 group-title="Познавательные" tvg-id="2485" tvg-logo="http://epg.it999.ru/img/2485.png" tvg-rec="7",DTX HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2006/index.m3u8
 #EXTINF:0 id=vsetv_943 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2102/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2102/index.m3u8
 #EXTINF:0 id=vsetv_38 group-title="Познавательные" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/227/index.m3u8
 #EXTINF:0 id=vsetv_38 group-title="Познавательные" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery HD (R)
@@ -294,17 +294,17 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 #EXTINF:0 id=vsetv_716 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.it999.ru/img/2012.png" tvg-rec="3",Viju+ Planet HD
 http://dmi3y-tv.ru/hls/okko/CH_VIASATNATUREHISTORYHD.m3u8
 #EXTINF:0 id=vsetv_879 group-title="Познавательные" tvg-id="1036" tvg-logo="http://epg.it999.ru/img/1036.png" tvg-rec="7",История
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/111/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/111/index.m3u8
 #EXTINF:0 id=vsetv_902 group-title="Познавательные" tvg-id="1394" tvg-logo="http://epg.it999.ru/img/1394.png" tvg-rec="7",History HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/9023/index.m3u8
 #EXTINF:0 id=vsetv_1252 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.it999.ru/img/2356.png" tvg-rec="7",H2 HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2033/index.m3u8
 #EXTINF:0 id=vsetv_451 group-title="Познавательные" tvg-id="2431" tvg-logo="http://epg.it999.ru/img/2431.png" tvg-rec="3",Зоо ТВ
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2100/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2100/index.m3u8
 #EXTINF:0 id=vsetv_331 group-title="Познавательные" tvg-id="367" tvg-logo="http://epg.it999.ru/img/367.png" tvg-rec="3",Zooпарк 
 http://94.158.54.107/89/tracks-v1a1/mono.m3u8
 #EXTINF:0 id=vsetv_450 group-title="Познавательные" tvg-id="2424" tvg-logo="http://epg.it999.ru/img/2424.png" tvg-rec="3",Телепутешествия
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/9307/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/9307/index.m3u8
 
 
 
@@ -373,15 +373,15 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:0 id=vsetv_31 group-title="Детские" tvg-id="923" tvg-logo="http://epg.it999.ru/img/923.png" tvg-rec="3",Детский мир
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/543/index.m3u8
 #EXTINF:0 id=vsetv_687 group-title="Детские" tvg-id="740" tvg-logo="http://epg.it999.ru/img/740.png" tvg-rec="7",Карусель
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/9186/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/9186/index.m3u8
 #EXTINF:0 id=vsetv_89 group-title="Детские" tvg-id="150" tvg-logo="http://epg.it999.ru/img/150.png" tvg-rec="7",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
 #EXTINF:0 id=vsetv_1472 group-title="Детские" tvg-id="1716" tvg-logo="http://epg.it999.ru/img/1716.png" tvg-rec="3",Мульт HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/921/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2437" tvg-logo="http://epg.it999.ru/img/2437.png" tvg-rec="3",Рыжий
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/2052/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/2052/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.it999.ru/img/284.png" tvg-rec="7",Мультимузыка
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/749/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/749/index.m3u8
 #EXTINF:0 id=vsetv_286 group-title="Детские" tvg-id="2757" tvg-logo="http://epg.it999.ru/img/2757.png" tvg-rec="3",Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:0 id=vsetv_1059 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.it999.ru/img/2011.png" tvg-rec="7",Ani
@@ -444,7 +444,7 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/228/index.m3u8
 #EXTINF:0 id=vsetv_535 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" tvg-rec="7",Eurosport 1 HD (R)
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 #EXTINF:0 id=vsetv_1082 group-title="Спорт" tvg-id="6318" tvg-logo="http://epg.it999.ru/img2/6318.png" tvg-rec="0",Eurosport 2 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/234/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/234/index.m3u8
 #EXTINF:0 id=vsetv_1082 group-title="Спорт" tvg-id="6318" tvg-logo="http://epg.it999.ru/img2/6318.png" tvg-rec="0",Eurosport 2 HD (R)
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 #EXTINF:0 id=vsetv_1044 group-title="Спорт" tvg-id="1679" tvg-logo="http://epg.it999.ru/img/1679.png" tvg-rec="3",Конный мир HD
@@ -452,7 +452,7 @@ https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:0 id=vsetv_1335 group-title="Спорт" tvg-id="2529" tvg-logo="http://epg.it999.ru/img/2529.png" tvg-rec="3",Моторспорт ТВ HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/2146/index.m3u8
 #EXTINF:0 id=vsetv_99 group-title="Спорт" tvg-id="2053" tvg-logo="http://epg.it999.ru/img/2053.png" tvg-rec="7",Extreme Sports
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/144/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/144/index.m3u8
 #EXTINF:0 id=vsetv_907 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-rec="7",Viju+ Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4629" tvg-logo="http://epg.it999.ru/img/4629.png" tvg-rec="0",Мир Баскетбола
@@ -618,97 +618,97 @@ http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/18123/index.m3u8
 
 
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5124" tvg-logo="http://epg.it999.ru/img/5124.png" tvg-rec="0",MM NewFilm 1 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13011/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13011/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5125" tvg-logo="http://epg.it999.ru/img/5125.png" tvg-rec="0",MM NewFilm 2 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13012/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13012/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5126" tvg-logo="http://epg.it999.ru/img/5126.png" tvg-rec="0",MM NewFilm 3 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13013/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13013/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5127" tvg-logo="http://epg.it999.ru/img/5127.png" tvg-rec="0",MM NewFilm RU HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13014/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13014/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="6064" tvg-logo="http://epg.it999.ru/img/6064.png" tvg-rec="0",MM Classic HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/16085/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/16085/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5140" tvg-logo="http://epg.it999.ru/img/5140.png" tvg-rec="0",MM Боевик Classic HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13027/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13027/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5141" tvg-logo="http://epg.it999.ru/img/5141.png" tvg-rec="0",MM Боевик HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13028/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13028/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5171" tvg-logo="http://epg.it999.ru/img/5171.png" tvg-rec="0",MM Триллер HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13058/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13058/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5130" tvg-logo="http://epg.it999.ru/img/5130.png" tvg-rec="0",MM UFO HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13017/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13017/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5147" tvg-logo="http://epg.it999.ru/img/5147.png" tvg-rec="0",MM Катастрофа HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13034/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13034/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5152" tvg-logo="http://epg.it999.ru/img/5152.png" tvg-rec="0",MM Криминал HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13039/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13039/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5161" tvg-logo="http://epg.it999.ru/img/5161.png" tvg-rec="0",MM Приключения HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13048/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13048/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5157" tvg-logo="http://epg.it999.ru/img/5157.png" tvg-rec="0",MM Мифология HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13044/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13044/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5146" tvg-logo="http://epg.it999.ru/img/5146.png" tvg-rec="0",MM История HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13033/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13033/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5151" tvg-logo="http://epg.it999.ru/img/5151.png" tvg-rec="0",MM Комедия HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13038/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13038/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5150" tvg-logo="http://epg.it999.ru/img/5150.png" tvg-rec="0",MM Комедия Classic HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13037/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13037/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5210" tvg-logo="http://epg.it999.ru/img/5210.png" tvg-rec="0",MM Семейный 1 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13097/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13097/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5211" tvg-logo="http://epg.it999.ru/img/5211.png" tvg-rec="0",MM Семейный 2 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13098/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13098/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5175" tvg-logo="http://epg.it999.ru/img/5175.png" tvg-rec="0",MM Фантастика HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13062/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13062/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5149" tvg-logo="http://epg.it999.ru/img/5149.png" tvg-rec="0",MM Киберпанк HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13036/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13036/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5142" tvg-logo="http://epg.it999.ru/img/5142.png" tvg-rec="0",MM Вестерн HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13029/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13029/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="6065" tvg-logo="http://epg.it999.ru/img/6065.png" tvg-rec="0",MM Драма HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/16086/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/16086/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5172" tvg-logo="http://epg.it999.ru/img/5172.png" tvg-rec="0",MM Ужастик HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13059/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13059/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5212" tvg-logo="http://epg.it999.ru/img/5212.png" tvg-rec="0",MM Ужасы HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13099/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13099/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5215" tvg-logo="http://epg.it999.ru/img/5215.png" tvg-rec="0",MM Ужасы Classic HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/14128/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/14128/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5160" tvg-logo="http://epg.it999.ru/img/5160.png" tvg-rec="0",MM Погружение HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13047/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13047/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5166" tvg-logo="http://epg.it999.ru/img/5166.png" tvg-rec="0",MM Скорость HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13053/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13053/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5122" tvg-logo="http://epg.it999.ru/img/5122.png" tvg-rec="0",MM 007 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13009/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13009/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5123" tvg-logo="http://epg.it999.ru/img/5123.png" tvg-rec="0",MM Love HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13010/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13010/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5176" tvg-logo="http://epg.it999.ru/img/5176.png" tvg-rec="0",MM Фобия HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13063/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13063/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5145" tvg-logo="http://epg.it999.ru/img/5145.png" tvg-rec="0",MM Затмение HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13032/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13032/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5174" tvg-logo="http://epg.it999.ru/img/5174.png" tvg-rec="0",MM Синематограф HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13061/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13061/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5168" tvg-logo="http://epg.it999.ru/img/5168.png" tvg-rec="0",MM Стивен Кинг HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13055/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13055/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="6063" tvg-logo="http://epg.it999.ru/img/6063.png" tvg-rec="0",MM Celebrity HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/16084/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/16084/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5169" tvg-logo="http://epg.it999.ru/img/5169.png" tvg-rec="0",MM Супергерои HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13056/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13056/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5138" tvg-logo="http://epg.it999.ru/img/5138.png" tvg-rec="0",MM Грайндхаус HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13025/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13025/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5137" tvg-logo="http://epg.it999.ru/img/5137.png" tvg-rec="0",MM Агата Кристи HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13024/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13024/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5158" tvg-logo="http://epg.it999.ru/img/5158.png" tvg-rec="0",MM Нуар HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13045/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13045/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5170" tvg-logo="http://epg.it999.ru/img/5170.png" tvg-rec="0",MM Flip UHD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13057/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13057/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5209" tvg-logo="http://epg.it999.ru/img/5209.png" tvg-rec="0",MM USSR Детектив HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13096/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13096/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5570" tvg-logo="http://epg.it999.ru/img/5570.png" tvg-rec="0",MM USSR Приключения HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13060/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13060/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="6413" tvg-logo="http://epg.it999.ru/img/6413.png" tvg-rec="0",MM Translation HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/18196/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/18196/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5132" tvg-logo="http://epg.it999.ru/img/5132.png" tvg-rec="0",MM USSR Комедия HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13019/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13019/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5135" tvg-logo="http://epg.it999.ru/img/5135.png" tvg-rec="0",MM USSR Фантастика HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13022/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13022/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5131" tvg-logo="http://epg.it999.ru/img/5131.png" tvg-rec="0",MM USSR 1941-1945 HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13018/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13018/index.m3u8
 #EXTINF:0 group-title="Кинозал MM" tvg-id="5153" tvg-logo="http://epg.it999.ru/img/5153.png" tvg-rec="0",MM Крутые 90-е HD
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/13040/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/13040/index.m3u8
 
 
 
@@ -1064,7 +1064,7 @@ http://online-video.rbc.ru/online/rbctvhd_576p/index.m3u8?e=e6&t=FrgMdd
 
 
 #EXTINF:0 group-title="Взрослые" tvg-id="3159" tvg-logo="http://epg.it999.ru/img/3159.png" tvg-rec="0",Cum4k
-http://hyqzethr.megatv.fun/iptv/T6NDS3UGLKHD6Y/12157/index.m3u8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T6NDS3UGLKHD6Y/12157/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="3151" tvg-logo="http://epg.it999.ru/img/3151.png" tvg-rec="0",Brazzers HD
 http://d8bd04cd.megogo.xyz/iptv/T6NDS3UGLKHD6Y/6182/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2781" tvg-logo="http://epg.it999.ru/img/2781.png" tvg-rec="3",Eroxxx HD
